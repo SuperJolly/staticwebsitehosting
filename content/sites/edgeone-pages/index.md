@@ -10,7 +10,7 @@ autodeployment: true
 
 **Features of EdgeOne Pages**
 
-Deploying static websites on EdgeOne Pages is so easy. Just link your Github or Gitee or Coding repo, or use a official template, or upload your code ZIP directly. There are many ways to help you quickly create deployment projects and use EdgeOne global edge nodes to accelerate your application for free.
+Deploying static websites on EdgeOne Pages is so easy. Just link your Github or Gitee or Coding repo, or use an official template, or upload your code ZIP directly. There are many ways to help you quickly create deployment projects and use EdgeOne global edge nodes to accelerate your application for free.
 
 Here’s what you get out of the box:
 
