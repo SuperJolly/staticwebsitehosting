@@ -8,7 +8,7 @@ freeplan: true
 autodeployment: true
 ---
 
-**Features of EdgeOne Pages**
+### Features of EdgeOne Pages
 
 Deploying static websites on EdgeOne Pages is so easy. Just link your Github or Gitee or Coding repo, or use an official template, or upload your code ZIP directly. There are many ways to help you quickly create deployment projects and use EdgeOne global edge nodes to accelerate your application for free.
 
@@ -24,7 +24,9 @@ Here’s what you get out of the box:
 - Purge cache instantly and deliver freshest content.
 - Free SSL certificates are configured by default and automatically renewed.
 
-**Limits on EdgeOne Pages**
+Learn more [Developer Documentation](https://edgeone.ai/document/160427672992178176).
+
+### Limits on EdgeOne Pages
 
 - **Build Time**: Max 20 minutes per build.
 - **Build Numbers**: Up to 40 times a day per account.
